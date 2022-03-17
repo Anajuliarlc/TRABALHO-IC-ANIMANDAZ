@@ -242,18 +242,10 @@ h3 {
     padding: 15px 0px;
 }
 
-
-/* .bloco-texto-imagem:before {
-    width: 100%;
-    display: inline-block;
-    content: '';
-    height: 50px;
-    background: #496edf;
-    background-image: url("../img/setinha.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    margin: center;
-} */
+.bloco-texto-imagem img {
+    width: 210px;
+    height: 320px;
+}
 
 .bloco-imagens-texto:after {
     width: 100%;
