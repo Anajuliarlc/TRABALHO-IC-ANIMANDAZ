@@ -1,0 +1,67 @@
+html {
+    background-color: #2edb038e;
+}
+
+
+/* --Deixar com a cor principal do site-- */
+
+h1 {
+    background-color: #e60f00;
+    color: beige;
+    font-style: italic;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+/* --mudar o estilo e o background para dar um tipo de destaque-- */
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    max-width: max-content;
+    max-height: max-content;
+    width: auto;
+    height: auto;
+    border-radius: 35%;
+}
+
+
+/* --centralizar e personalizar a minha foto--*/
+
+table,
+td {
+    border: 7px solid #1252ddda;
+    border-radius: 15px;
+    padding: 15px;
+    margin-left: 400px;
+    margin-top: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 15px;
+    color: #dd6706;
+}
+
+
+/* --Demonstrar algum tipo de divisão-- */
+
+p {
+    background-color: #b8ded8;
+    color: rgb(131, 70, 35);
+    border: 10px solid #000000af;
+    padding: 13px;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    border-radius: 4px;
+}
+
+
+/* --Estilizar e deixar com alguma forma de segmentação-- */

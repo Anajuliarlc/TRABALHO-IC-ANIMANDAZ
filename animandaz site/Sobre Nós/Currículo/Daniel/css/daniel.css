@@ -1,0 +1,43 @@
+html {
+    background-color: #b8ded8;
+}
+
+
+/*Deixar com cor o fundo da página*/
+
+h1 {
+    background-color: #e6ac00;
+    font-style: italic;
+    font-size: 35px;
+    font-family: arial, sans-serif;
+}
+
+
+/*mudar o estilo e o background para dar um tipo de destaque*/
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+
+/*centralizar e personalizar a minha foto*/
+
+table,
+td {
+    border: 3px solid #e6ac00;
+}
+
+
+/*Demonstrar algum tipo de divisão*/
+
+p {
+    background-color: #b8ded8;
+    color: black;
+    border: 3px solid #708090;
+}
+
+
+/*Estilizar e deixar com alguma forma de segmentação*/

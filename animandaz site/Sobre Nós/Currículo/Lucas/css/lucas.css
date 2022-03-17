@@ -1,0 +1,45 @@
+table {
+    width: 80%
+}
+
+body {
+    background-color: #c5fccd;
+}
+
+h1 {
+    background-color: white;
+    font-family: verdana;
+    font-size: 30px;
+}
+
+
+/* <!--mudar o estilo e o background para dar um tipo de destaque-->*/
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px black;
+}
+
+
+/* <!--centralizar e personalizar a minha foto--> */
+
+table,
+td {
+    border: 3px solid #e6ac00;
+    margin: 5px;
+}
+
+
+/* <!--Demonstrar algum tipo de divisão-->*/
+
+p {
+    background-color: #9effad;
+    color: black;
+    border: 3px solid #708090;
+    font-size: 10px;
+}
+
+
+/* <!--Estilizar e deixar com alguma forma de segmentação--> */
